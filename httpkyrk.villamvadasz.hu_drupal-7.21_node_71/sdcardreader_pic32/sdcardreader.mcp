@@ -9,7 +9,7 @@ dir_bin=.\output
 dir_tmp=.\output
 dir_sin=
 dir_inc=.\inc
-dir_lib=C:\Program Files (x86)\Microchip\xc32\v1.11\pic32mx\lib
+dir_lib=C:\Program Files (x86)\Microchip\xc32\v1.21\pic32mx\lib
 dir_lkr=
 [CAT_FILTERS]
 filter_src=*.s;*.c
